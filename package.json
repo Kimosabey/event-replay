@@ -1,0 +1,16 @@
+{
+  "name": "event-replay",
+  "version": "0.1.0",
+  "description": "Event-sourced state reconstruction — deterministic replay, time-travel, and snapshots.",
+  "type": "module",
+  "author": "Harshan Aiyappa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "start": "node src/server.ts",
+    "demo": "node src/demo.ts",
+    "test": "node --test \"test/**/*.test.ts\""
+  }
+}
