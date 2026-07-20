@@ -28,5 +28,5 @@ To show the pattern cleanly and keep it verifiable with zero dependencies (10 te
 runner). The store is behind a small interface, so a durable backend (disk/Kafka) drops in later.
 
 ### "How does it fit your portfolio?"
-It's my distributed-systems / event-sourcing piece, complementing ChronicleLedger, under the "Antigravity"
+It's my distributed-systems / event-sourcing piece, complementing ChronicleLedger, under the local-first
 model — pure, deterministic logic that runs anywhere (`#56`).

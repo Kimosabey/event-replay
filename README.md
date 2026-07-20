@@ -19,8 +19,7 @@ derives state by folding that log. That makes three things fall out for free: **
 Modeled on a classic account-ledger aggregate with a proper write side — commands are validated against
 current state and either append one event or are rejected (a rejected command never touches the log).
 
-> Part of my Senior Hybrid Engineer 2026 portfolio (`#56`). Distributed-systems fundamentals under the
-> Antigravity model — pure, deterministic logic that runs anywhere.
+> Distributed-systems fundamentals — pure, deterministic logic that runs anywhere.
 
 ## 🚀 Quick Start
 ```bash
