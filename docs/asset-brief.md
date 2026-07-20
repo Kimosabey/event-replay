@@ -1,11 +1,11 @@
 # Asset Brief — EventReplay
 
 **Primary color signature:** `#F97316` (orange) · **Accent:** `#334155` (slate)
-**Domain motif:** an append-only event-log timeline being *replayed* into derived state (rewind/replay arrow).
-**Global style:** ultra-premium modern SaaS, light background, Inter font, rounded-2xl cards, soft layered
-shadows, subtle depth, Stripe/Linear/Vercel aesthetic. Output **PNG** (lossless).
+**Visual tier:** Infographic (labeled Senior-5)
+**Domain motif:** Append-only event-log timeline being *replayed* into derived state (rewind/replay arrow).
+**Background:** Light `#F5F5F4` · **Global style:** Modern Premium V3, Inter font, rounded cards, Stripe/Linear aesthetic. Output **PNG**.
 
-Save each to `docs/assets/<name>.png`.
+Save each to `docs/assets/<name>.png`. Site sync: `node kimo-nexus/scripts/sync-portfolio-assets.mjs`.
 
 | Asset | File | Size |
 |---|---|---|
